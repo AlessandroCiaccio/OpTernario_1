@@ -5,7 +5,6 @@ public class Module01 {
     public static void main(String[] args) {
         System.out.println(checkString("Questa è una stringa"));
     }
-
     private static String checkString(String value) {
         String result;
         if (value.length() >= 10) {
