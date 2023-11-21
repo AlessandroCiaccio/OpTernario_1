@@ -1,6 +1,7 @@
 # OpTernario_1
 Copia il seguente programma Java e sostituisci il costrutto if-else con l'operatore ternario
 
+
 public class Module01 {
     public static void main(String[] args) {
         System.out.println(checkString("Questa è una stringa"));
